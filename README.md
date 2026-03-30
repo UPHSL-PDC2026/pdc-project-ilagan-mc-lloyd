@@ -20,7 +20,7 @@ Performance is measured and compared.
 4. Run all cells. Make sure the dataset is in the same directory (or update the file path).
 
 ## Team Members & Roles
-- Ilagan, Mc Lloyd S – Developer & Analyst
+- Ilagan, Mc Lloyd S. – Developer & Analyst
 
 
 ## Results Summary
