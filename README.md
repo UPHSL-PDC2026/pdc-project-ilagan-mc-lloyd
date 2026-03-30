@@ -24,9 +24,9 @@ Performance is measured and compared.
 
 
 ## Results Summary
-Version              Time (seconds) 
+Version      |        Time (seconds) 
 --------------------------------------------------
-Sequential           0.2057         
-Parallel             0.8132         
-Speedup              0.25           x
-Efficiency           12.65%         
+Sequential      ||     0.2057         
+Parallel        |     0.8132         
+Speedup         |     0.25           x
+Efficiency      |     12.65%         
